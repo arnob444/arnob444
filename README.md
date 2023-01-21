@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-4B918MLaS9o/XXBFXsZ1uMI/AAAAAAAAL7M/Pk4cPjGsZFwczYiMzUQmUJ7b3p9kyvtZgCLcBGAs/s1600/image3.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arnob Das Shacha</h1>
 <h3 align="center">A passionate problem solver.</h3>
-<img align="right" alt="coding" height = "500"width="350" src="https://static.vecteezy.com/system/resources/previews/002/254/200/non_2x/programmer-computer-expert-rgb-color-icon-vector.jpg">
+<img align="right" alt="coding" width="350" src="https://static.vecteezy.com/system/resources/previews/002/254/200/non_2x/programmer-computer-expert-rgb-color-icon-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnob444&label=Profile%20views&color=0e75b6&style=flat" alt="arnob444" /> </p>
 
