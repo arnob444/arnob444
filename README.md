@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-4B918MLaS9o/XXBFXsZ1uMI/AAAAAAAAL7M/Pk4cPjGsZFwczYiMzUQmUJ7b3p9kyvtZgCLcBGAs/s1600/image3.png)](https://rishavchanda.io)
 <h1 align="center">Hi, I'm Arnob Das Shacha</h1>
 <h3 align="center">A passionate problem solver.</h3>
 
