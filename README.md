@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Arnob Das Shacha</h1>
-<h3 align="center">A passionate problem solver.</h3>
+<h1 align="center">Hi, I'm ARNOB DAS SHACHA</h1>
+<h3 align="center">Programmer  |  Developer  |  Problem Solver</h3>
 
 
 
