@@ -11,7 +11,7 @@
 - It has always been my focus on every available opportunity to improve my skills.
 - I want to pursue my goals with dedication, sincerity, honesty, and hard work.
 - 🌱 I’m currently learning **Python,Java**
-- 💬 Ask me about **C, C++, Frontend.**
+- 💬 Ask me about **C, C++, DSA, OOP **
 - 📫 How to reach me **dasarnob01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
